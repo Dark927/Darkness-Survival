@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f7eebcb820f66449226f2c0893cda0, type: 3}
+  m_Name: CyberSword
+  m_EditorClassIdentifier: 
+  Name: Cyber Sword
+  currentLevel: 0
+  upgrades:
+  - {fileID: 11400000, guid: 0c25741a3b7a7af4d8807c71b86275c4, type: 2}
+  - {fileID: 11400000, guid: adc2fa0809c1fad4eb19d65381991a75, type: 2}
+  - {fileID: 11400000, guid: 43e3328e2adb6e84ba3c1510f977c687, type: 2}
+  - {fileID: 11400000, guid: ae2aecdf81a5a184e98303b87ef9b8a2, type: 2}
+  - {fileID: 11400000, guid: 722d50df4593f544a9b256de15e7994f, type: 2}

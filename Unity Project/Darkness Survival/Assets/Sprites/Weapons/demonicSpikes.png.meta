@@ -1,0 +1,1467 @@
+fileFormatVersion: 2
+guid: f69c570a7c7582e47baf2d25f6a3f05f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demonicSpikes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20b3fc375d9c440bcbd70988ebf44b
+      internalID: 1838059230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 980
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dda9ef2ae01f194da1a18a3b8d6a792
+      internalID: -1503192140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_2
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 980
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b5558e465de04fafd72b0abdbaf43
+      internalID: -1023368375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_3
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 980
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e691cf9d23b614e9f2e72a638ab666
+      internalID: -1009282608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_4
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 980
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28dff3a4f99d44fa78e490267dba4c
+      internalID: -107141967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_5
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 980
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a363bcb7a54270f429bfbcfb9e6d5e05
+      internalID: -2128912709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_6
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 980
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c17fef511e534d848d2df01aa41dc
+      internalID: -782346951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_7
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 980
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788ef4823fdb44841a8a22e2453d6987
+      internalID: 923024577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097e5c133c796f540a44900fb1e96c86
+      internalID: 1740124400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 840
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e61039ab90e524194360d3b9f1ec28
+      internalID: 419921168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_10
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 840
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fecd0d72083c04c8dec98f1cca0d41
+      internalID: -1065255516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_11
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 840
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91afa4ae2dfb7ea4e9b6c63947f1c79e
+      internalID: -1800004539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_12
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 840
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10dc89f4ce4d05499ca51c552fee201
+      internalID: -1426611202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_13
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 840
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe972457b186dc41a1cd43e92847637
+      internalID: -537915162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_14
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 840
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870bc9e7d909de94185a4b9afd6e1603
+      internalID: -121492449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_15
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 840
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c53a7b8f62d4441950f0bc9760ad67
+      internalID: 600184076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5dc95f2d045b941877d99aef909a08
+      internalID: -1170406007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 700
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9509494f364f04c9108ac10481a319
+      internalID: -1102048250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_18
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 700
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5269bc3f7b2a9cf4794cc28283ea5a49
+      internalID: 143599373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_19
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 700
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c4bdd1feabece4c99b3c28c3f9ba33
+      internalID: -1118634970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_20
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 700
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40abb8f299e0834e83f657c74450f93
+      internalID: 1380562288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_21
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 700
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb5233b9084d06408bfbc65efc6f09e
+      internalID: 790293703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_22
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 700
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe0eb6f3930454b829d769d91bae7e
+      internalID: -40357072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_23
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 700
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04b7ffe6d568ec4e9d40bd06a595d94
+      internalID: 2052356544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0454a5f1d0957a4d99a07a27fbb7b1e
+      internalID: -1560532967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_25
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 560
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01baafc177118e44aa38de23329c88c8
+      internalID: -495432258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_26
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 560
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fc33d8a27fdf44b8cf1b2a2f4a2228
+      internalID: -2144846673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_27
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 560
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b446b6b0a92e6004db538296e252c9be
+      internalID: -622880814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_28
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 560
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a57dc6cb06c714cac652e5849b2643
+      internalID: -491062861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_29
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 560
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13269cf6f1ddb3e4793b4342287a1fda
+      internalID: 2066085643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_30
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 560
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe1cd0b08fe94f4a8856e80ae121e6d
+      internalID: 1943322387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_31
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 560
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f554188b032c44a8cdb8d4cd480240
+      internalID: 730263604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe3099b0dc5b36409b031a992ec8c60
+      internalID: 1161764990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 420
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8df18ec304a9ee4180f80f164aa4806
+      internalID: 538747436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_34
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 420
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89a368a4f8845745864ebfa5c78e545
+      internalID: -1862059626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_35
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 420
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94acc91025c563f408323db85aba1925
+      internalID: -1469422630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_36
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 420
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741c700a27fdcfe4ab0d6df3d42ef86a
+      internalID: 460470382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_37
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 420
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4e31c758552344a446da525d380ba
+      internalID: -135000656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_38
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 420
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539e5c0b6717e244681c6444cbfc5276
+      internalID: -1911794747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_39
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 420
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6306804e04e1d4a46958d0bd07aa84de
+      internalID: -1912032576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f419d1dac7cde43ab6d1d08b872529
+      internalID: -1481349281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_41
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 280
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3ad79e20129db439646123de156a8a
+      internalID: -915321377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_42
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 280
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dcb87785e67d84799545513fa90b25
+      internalID: 1404640126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_43
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 280
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cb7e1ea3beb89468e9faf7774f9515
+      internalID: -1202141514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_44
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 280
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b7d4702cd8b3640b2695febb0495db
+      internalID: -1817467152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_45
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 280
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfa8c56b1594874bb3140022b8637e1
+      internalID: -2053047983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_46
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 280
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c915aa46262ed4298b1219e5bad4af
+      internalID: 1793666588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_47
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 280
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b961d022265deca41b8c6078fe35fd9e
+      internalID: 2015247591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b2402977d6bb149847bc7f0f9d9970
+      internalID: 562058754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_49
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 140
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f5ca7ad7df6249843c10a20f28827
+      internalID: 1956265148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_50
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 140
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b2fc1ed62cddc45a1795ffde20e8d7
+      internalID: 1182023878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_51
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 140
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87683f85773a0e7449e8f7c978ecc5d0
+      internalID: -1457216948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_52
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 140
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a24ab6d609c8b64384ea8e2a115582e
+      internalID: 1158904328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_53
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 140
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4477867a75a91934bbf2c6660595e8c6
+      internalID: 1449055388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_54
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 140
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf742f4362891446ac7b6d7a636c010
+      internalID: 1832163851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_55
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 140
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df994c9a73aa1a4190657161e91e064
+      internalID: -1543248544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6897648167dbbf64db47761bf6cb7e2c
+      internalID: -1219793586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_57
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad810f4d50fd684db9ad47004863f2d
+      internalID: -854437578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_58
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71492c83a8bfcc4db1a569084d081dd
+      internalID: 497738379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonicSpikes_59
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 0
+        width: 462
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe96ab0b69802a4ab31db67d1aecf63
+      internalID: 100588308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      demonicSpikes_0: 1838059230
+      demonicSpikes_1: -1503192140
+      demonicSpikes_10: -1065255516
+      demonicSpikes_11: -1800004539
+      demonicSpikes_12: -1426611202
+      demonicSpikes_13: -537915162
+      demonicSpikes_14: -121492449
+      demonicSpikes_15: 600184076
+      demonicSpikes_16: -1170406007
+      demonicSpikes_17: -1102048250
+      demonicSpikes_18: 143599373
+      demonicSpikes_19: -1118634970
+      demonicSpikes_2: -1023368375
+      demonicSpikes_20: 1380562288
+      demonicSpikes_21: 790293703
+      demonicSpikes_22: -40357072
+      demonicSpikes_23: 2052356544
+      demonicSpikes_24: -1560532967
+      demonicSpikes_25: -495432258
+      demonicSpikes_26: -2144846673
+      demonicSpikes_27: -622880814
+      demonicSpikes_28: -491062861
+      demonicSpikes_29: 2066085643
+      demonicSpikes_3: -1009282608
+      demonicSpikes_30: 1943322387
+      demonicSpikes_31: 730263604
+      demonicSpikes_32: 1161764990
+      demonicSpikes_33: 538747436
+      demonicSpikes_34: -1862059626
+      demonicSpikes_35: -1469422630
+      demonicSpikes_36: 460470382
+      demonicSpikes_37: -135000656
+      demonicSpikes_38: -1911794747
+      demonicSpikes_39: -1912032576
+      demonicSpikes_4: -107141967
+      demonicSpikes_40: -1481349281
+      demonicSpikes_41: -915321377
+      demonicSpikes_42: 1404640126
+      demonicSpikes_43: -1202141514
+      demonicSpikes_44: -1817467152
+      demonicSpikes_45: -2053047983
+      demonicSpikes_46: 1793666588
+      demonicSpikes_47: 2015247591
+      demonicSpikes_48: 562058754
+      demonicSpikes_49: 1956265148
+      demonicSpikes_5: -2128912709
+      demonicSpikes_50: 1182023878
+      demonicSpikes_51: -1457216948
+      demonicSpikes_52: 1158904328
+      demonicSpikes_53: 1449055388
+      demonicSpikes_54: 1832163851
+      demonicSpikes_55: -1543248544
+      demonicSpikes_56: -1219793586
+      demonicSpikes_57: -854437578
+      demonicSpikes_58: 497738379
+      demonicSpikes_59: 100588308
+      demonicSpikes_6: -782346951
+      demonicSpikes_7: 923024577
+      demonicSpikes_8: 1740124400
+      demonicSpikes_9: 419921168
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

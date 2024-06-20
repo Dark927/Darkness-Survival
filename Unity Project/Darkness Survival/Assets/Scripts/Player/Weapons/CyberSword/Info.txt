@@ -1,0 +1,17 @@
+
+//////////////////////
+// Cyber Sword Info //
+//////////////////////
+
+Developer : Dark
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Classes in which this feature is implemented :
+
+  CyberSword.cs		   - Used for turning ON/OFF different attack's colliders ( return collider2D )
+  AttackControl.cs     - Used by animator to set attack status ( isAttacking )
+! Character.cs		   - Used for activating main attacks by pressing 'custom' btns
+  ControlCyberSword.cs - Used for realization of Cyber Sword attacks and applying damage 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////

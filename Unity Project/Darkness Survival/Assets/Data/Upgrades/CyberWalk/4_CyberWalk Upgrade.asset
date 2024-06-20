@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d85c3635d4eaa04c9ed5a1ee25e3d14, type: 3}
+  m_Name: 4_CyberWalk Upgrade
+  m_EditorClassIdentifier: 
+  upgradeType: 1
+  Name: Cyber Walk - 5
+  icon: {fileID: 1500554505, guid: 4f9005beecc98c340a73351ff1c6b4b6, type: 3}
+  weaponData: {fileID: 0}
+  weaponUpgradeStats:
+    minDamage: 0
+    maxDamage: 0
+    timeToAttack: 0
+    numberOfAttack: 0
+  playerData: {fileID: 11400000, guid: 23821d9ab0aa7bb4bb3e4fe36d1cac0b, type: 2}
+  playerUpgradeStats:
+    speedPercent: 107.5
+    maxHpPercent: 0
+    firstHitDmgPercent: 0
+    secondHitDmgPercent: 0
+    armorPercent: 0
+    collectionRadius: 0

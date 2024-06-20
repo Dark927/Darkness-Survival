@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d85c3635d4eaa04c9ed5a1ee25e3d14, type: 3}
+  m_Name: 0_ElectBAcquireUpdate
+  m_EditorClassIdentifier: 
+  upgradeType: 2
+  Name: Sharp Blade - 1
+  icon: {fileID: -570176168, guid: c729ec5932d02c64e8114df01a8c7c42, type: 3}
+  weaponData: {fileID: 11400000, guid: 7298c7c0e45a5ae46ba78506945827ed, type: 2}
+  weaponUpgradeStats:
+    minDamage: 0
+    maxDamage: 0
+    timeToAttack: 0
+    numberOfAttack: 0

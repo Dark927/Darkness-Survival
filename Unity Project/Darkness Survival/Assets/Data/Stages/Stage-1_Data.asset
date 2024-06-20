@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1a3b2d4ecc241f4f99de0f615161f6d, type: 3}
+  m_Name: Stage-1_Data
+  m_EditorClassIdentifier: 
+  stageEvents:
+  - eventType: 0
+    time: 1
+    message: Spawning some objects
+    monstersToSpawn: {fileID: 8943660548026864153, guid: a3d9041f223b9134ab0633880561dfff, type: 3}
+    bossToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 0}
+    count: 20
+  - eventType: 0
+    time: 5
+    message: 2
+    monstersToSpawn: {fileID: 8943660548026864153, guid: a3d9041f223b9134ab0633880561dfff, type: 3}
+    bossToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 0}
+    count: 20
+  - eventType: 0
+    time: 40
+    message: 3
+    monstersToSpawn: {fileID: 7769519686704898674, guid: b62fa8165719cb149a2119b15cab2a63, type: 3}
+    bossToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 0}
+    count: 10
+  - eventType: 0
+    time: 40
+    message: 4
+    monstersToSpawn: {fileID: 8943660548026864153, guid: a3d9041f223b9134ab0633880561dfff, type: 3}
+    bossToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 0}
+    count: 20
+  - eventType: 1
+    time: 60
+    message: 5
+    monstersToSpawn: {fileID: 0}
+    bossToSpawn: {fileID: 2610848627948008459, guid: b46fc672566a5414b85e1b9ee443166d, type: 3}
+    objectToSpawn: {fileID: 0}
+    count: 2
+  - eventType: 0
+    time: 60
+    message: 60
+    monstersToSpawn: {fileID: 8486712701247947964, guid: 922570d97f93f83449b3edeb749628b5, type: 3}
+    bossToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 0}
+    count: 10
+  - eventType: 0
+    time: 60
+    message: 5
+    monstersToSpawn: {fileID: 8943660548026864153, guid: a3d9041f223b9134ab0633880561dfff, type: 3}
+    bossToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 0}
+    count: 25
+  - eventType: 0
+    time: 65
+    message: 5
+    monstersToSpawn: {fileID: 4152345218830044063, guid: 7b04b97682c892345b58d37f6266b578, type: 3}
+    bossToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 0}
+    count: 4
+  - eventType: 0
+    time: 70
+    message: 5
+    monstersToSpawn: {fileID: 8374813792197451142, guid: 1a4883068fba78447b21ddbf820a3619, type: 3}
+    bossToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 0}
+    count: 9
+  - eventType: 0
+    time: 70
+    message: 5
+    monstersToSpawn: {fileID: 8943660548026864153, guid: a3d9041f223b9134ab0633880561dfff, type: 3}
+    bossToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 0}
+    count: 25
+  - eventType: 0
+    time: 72
+    message: 5
+    monstersToSpawn: {fileID: 7769519686704898674, guid: b62fa8165719cb149a2119b15cab2a63, type: 3}
+    bossToSpawn: {fileID: 0}
+    objectToSpawn: {fileID: 0}
+    count: 10

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6f7eebcb820f66449226f2c0893cda0, type: 3}
+  m_Name: CyberArmor
+  m_EditorClassIdentifier: 
+  Name: Cyber Armor
+  currentLevel: 1
+  upgrades:
+  - {fileID: 11400000, guid: f6e2bee3252bef84ea9445f46991e3e7, type: 2}
+  - {fileID: 11400000, guid: 5658211ddea68e34ba4136c4553ea79b, type: 2}
+  - {fileID: 11400000, guid: cfd0b9a0cd97f5740883d1c9de35f0d9, type: 2}
+  - {fileID: 11400000, guid: 8b78cd10ab7f721419823f767af1ce91, type: 2}
+  - {fileID: 11400000, guid: 6720b4ee42cd16446b759991675c8884, type: 2}

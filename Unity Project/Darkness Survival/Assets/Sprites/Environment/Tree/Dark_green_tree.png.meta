@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 8810b19fc3c79454cb18463815e9a35e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark_green_tree_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1371
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b53de66dbd9374dae2ae80bf938cc6
+      internalID: 2103985487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1371
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec08291ef6fb72d42bf2c0971844180a
+      internalID: 897181962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_2
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1371
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936c2c6501e0aa46adad19f6e565bba
+      internalID: -687843673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_3
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1371
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612ddfe9358588e409232496e8796fe2
+      internalID: 99655851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674f40bffd4c50b40aa9bf17c7b89797
+      internalID: 999582421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 914
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de5ee7dfe83b9245bd8428665884bfe
+      internalID: -316126913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_6
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 914
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a5fd0169c9f6c43b536fcbd965033d
+      internalID: 1130237226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_7
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 914
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49e506b6caee01418d7ee9fa7d76b1a
+      internalID: -541937465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a584a14ac25539f4dbe597d025df23fd
+      internalID: -64858483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_9
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 457
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253ce1b3683d33146a62cdc6f9e01875
+      internalID: -1082773555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_10
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 457
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd0687b3dc7640409b806001180fa6a
+      internalID: 1001787524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_11
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 457
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0b658ce4505334bb9d775a884b712a
+      internalID: 1626498851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e28ab3ce1d3e34ab97edbedda6847e
+      internalID: 1350518282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb261173197bf64d9397ac800bd9896
+      internalID: 624383024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_14
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2812a008ac01e43925f33c3422dc96
+      internalID: 940398489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_green_tree_15
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 704
+        height: 457
+      alignment: 9
+      pivot: {x: 0.5, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113cd683cfc8a2a4682c347e4eaac0a2
+      internalID: -1463285685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 39e1c84a50a0453469b91cdb231d256e, type: 3}
+      name: _Emission
+    nameFileIdTable:
+      Dark_green_tree_0: 2103985487
+      Dark_green_tree_1: 897181962
+      Dark_green_tree_10: 1001787524
+      Dark_green_tree_11: 1626498851
+      Dark_green_tree_12: 1350518282
+      Dark_green_tree_13: 624383024
+      Dark_green_tree_14: 940398489
+      Dark_green_tree_15: -1463285685
+      Dark_green_tree_2: -687843673
+      Dark_green_tree_3: 99655851
+      Dark_green_tree_4: 999582421
+      Dark_green_tree_5: -316126913
+      Dark_green_tree_6: 1130237226
+      Dark_green_tree_7: -541937465
+      Dark_green_tree_8: -64858483
+      Dark_green_tree_9: -1082773555
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

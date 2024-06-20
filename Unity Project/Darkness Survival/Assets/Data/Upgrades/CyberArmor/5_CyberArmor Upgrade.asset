@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d85c3635d4eaa04c9ed5a1ee25e3d14, type: 3}
+  m_Name: 5_CyberArmor Upgrade
+  m_EditorClassIdentifier: 
+  upgradeType: 1
+  Name: Cyber Armor - 6
+  icon: {fileID: 1938435185, guid: 771fa7a9b6ef2634a9c5f3596e6ce7dd, type: 3}
+  weaponData: {fileID: 0}
+  weaponUpgradeStats:
+    minDamage: 0
+    maxDamage: 0
+    timeToAttack: 0
+    numberOfAttack: 0
+  playerData: {fileID: 11400000, guid: d298cb64afd8d174091a72fd10b99bb0, type: 2}
+  playerUpgradeStats:
+    speedPercent: 0
+    maxHpPercent: 0
+    firstHitDmgPercent: 0
+    secondHitDmgPercent: 0
+    armorPercent: 160
+    collectionRadius: 0

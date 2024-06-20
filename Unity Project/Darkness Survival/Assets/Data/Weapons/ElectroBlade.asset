@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2ac29e8bd004254fa80b513e15d2a6d, type: 3}
+  m_Name: ElectroBlade
+  m_EditorClassIdentifier: 
+  Name: Electro Blade
+  stats:
+    minDamage: 9
+    maxDamage: 11
+    timeToAttack: 2
+    numberOfAttack: 1
+  weaponBasePrefab: {fileID: 7530447106965416772, guid: 655477e8ef956ff438dc732df98c77e3, type: 3}
+  currentLevel: 2
+  upgrades:
+  - {fileID: 11400000, guid: 2e0ea9a2b6b5ab54f829a7d76d8a2bf5, type: 2}
+  - {fileID: 11400000, guid: 40e710123ab62114fa1a5640f70923cf, type: 2}
+  - {fileID: 11400000, guid: bf31149656cf57f4895bd3c3655a3003, type: 2}
+  - {fileID: 11400000, guid: 34c6f1a1206195c4aa39d47cec62fbbb, type: 2}
+  - {fileID: 11400000, guid: 29120228be0cd76418aca47f7f303c9f, type: 2}
